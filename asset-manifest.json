@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/static/css/main.073c9b0a.css",
-    "main.js": "/static/js/main.e70292c3.js",
-    "static/js/787.763d04e0.chunk.js": "/static/js/787.763d04e0.chunk.js",
-    "static/media/logo.svg": "/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
-    "index.html": "/index.html",
-    "main.073c9b0a.css.map": "/static/css/main.073c9b0a.css.map",
-    "main.e70292c3.js.map": "/static/js/main.e70292c3.js.map",
-    "787.763d04e0.chunk.js.map": "/static/js/787.763d04e0.chunk.js.map"
+    "main.css": "/ArjunUthpala.github.io/static/css/main.073c9b0a.css",
+    "main.js": "/ArjunUthpala.github.io/static/js/main.b2cbc0fa.js",
+    "static/js/787.763d04e0.chunk.js": "/ArjunUthpala.github.io/static/js/787.763d04e0.chunk.js",
+    "static/media/logo.svg": "/ArjunUthpala.github.io/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/ArjunUthpala.github.io/index.html",
+    "main.073c9b0a.css.map": "/ArjunUthpala.github.io/static/css/main.073c9b0a.css.map",
+    "main.b2cbc0fa.js.map": "/ArjunUthpala.github.io/static/js/main.b2cbc0fa.js.map",
+    "787.763d04e0.chunk.js.map": "/ArjunUthpala.github.io/static/js/787.763d04e0.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.073c9b0a.css",
-    "static/js/main.e70292c3.js"
+    "static/js/main.b2cbc0fa.js"
   ]
 }
